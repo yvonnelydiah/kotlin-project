@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e53c6a7b-cfb1-401c-aea3-604d72a4155a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Datatypes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SimpleC alc.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/variables.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Statements.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ifstatement exercise.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,14 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.VariablesKt">
+  <component name="RunManager" selected="Kotlin.Ifstatement_exerciseKt">
+    <configuration name="Ifstatement_exerciseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ifstatement_exerciseKt" />
+      <module name="kotlin_week1lydiah" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
       <module name="kotlin_week1lydiah" />
@@ -58,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ifstatement_exerciseKt" />
         <item itemvalue="Kotlin.VariablesKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
