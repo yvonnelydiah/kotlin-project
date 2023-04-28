@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e53c6a7b-cfb1-401c-aea3-604d72a4155a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions_With_Params.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/When Statement.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/When StatementEx.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/House.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/Vehicle.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
